@@ -1,0 +1,6 @@
+************STEPS TO RUN THE TICTACTOE GAME*******************
+OPEN  THE TARGET FOLDER AND RUN COMMAND PROMPT AT THAT LOCATION
+USE THE COMMAND GIVEN BELOW AND PRESS ENTER IN COMMAND PROMPT
+
+
+java -cp tictactoe.jar com.vivek.tic.tac.toe.tictactoe
